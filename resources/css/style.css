@@ -14,12 +14,17 @@ h2 {
   font-weight: 300;
 }
 
+p {
+ font-size: 24px;
+ color: gray;
+}
+
 .cta {
  font-size: 16px;
  color: aquamarine;
 }
 
-p {
- font-size: 24px;
- color: gray;
+.footer {
+  text-align: right;
+  color: gray;
 }
